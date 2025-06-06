@@ -27,6 +27,10 @@ This project demonstrates how to **fetch and display user data from a public API
 - CSS3
 - JavaScript (ES6)
 
+---
+## 📸 Preview
+
+![Blog Screenshot](Screenshot.png) 
 
 ---
 
